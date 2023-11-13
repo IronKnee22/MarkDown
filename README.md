@@ -62,7 +62,7 @@ tabulka
 | toto | je |
 | krásná | tabulka |
 
-Zde si může všimnout že máme tabulku seřazenou bud do středu nebo k pravému okraji toho se jednoduše docílí pomocí : na požadovaném místě
+Zde si může všimnout že máme tabulku seřazenou buď do středu nebo k pravému okraji toho se jednoduše docílí pomocí : na požadovaném místě
 
 ```
 | col1   |  col2   |
