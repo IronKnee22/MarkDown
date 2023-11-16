@@ -1,7 +1,7 @@
 # Tutoriál na MarkDown
 
 Výtejte na tutoriálu na MarkDown! V tomto tutoriálu se zaměříme na markdown a naučíme se ho pomocí markdownu
-Pokud si nejste jisti jak jaký znak napsat koukněte na můj jiný tutoriál [jak co napsat](https://github.com/MarekDarsa/Klavesove_zkratky)
+Pokud si nejste jisti jak jaký znak napsat koukněte na můj jiný tutoriál [Klávesové zkratky](https://github.com/MarekDarsa/Klavesove_zkratky)
 
 ## Jak markdown psát
 
